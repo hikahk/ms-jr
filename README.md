@@ -1,1 +1,2 @@
-# ms-jr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
